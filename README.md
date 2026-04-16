@@ -65,6 +65,14 @@ Two composite scoring models power the optimization engine:
 
 ---
 
+## Data Sources
+
+- **India Exim Bank Annual Reports** — sector-wise export credit disbursement and portfolio data
+- **Government of India Trade Profiles** — export performance metrics across sectors
+- Ministry of Commerce & Industry publications and RBI statistical reports
+
+---
+
 ## Project Structure
 
 ```
@@ -85,7 +93,7 @@ exim-bank-dashboard/
 ## Author
 
 **Lakshay Malik**  
-MBA | Data Analytics  
+MBA (Business Analytics) — BITS Pilani, Pilani Campus  
 [GitHub](https://github.com/Lakshayx007) · [LinkedIn](https://www.linkedin.com/in/lakshay-malik) <!-- update LinkedIn URL if needed -->
 
 ---
