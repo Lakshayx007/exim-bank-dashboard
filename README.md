@@ -94,7 +94,7 @@ exim-bank-dashboard/
 
 **Lakshay Malik**  
 MBA (Business Analytics) — BITS Pilani, Pilani Campus  
-[GitHub](https://github.com/Lakshayx007) · [LinkedIn](https://www.linkedin.com/in/lakshay-malik) <!-- update LinkedIn URL if needed -->
+[GitHub](https://github.com/Lakshayx007) · [LinkedIn](https://www.linkedin.com/in/lakshaymalik3127)
 
 ---
 
