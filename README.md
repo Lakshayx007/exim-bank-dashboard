@@ -86,7 +86,7 @@ exim-bank-dashboard/
 
 **Lakshay Malik**  
 MBA | Data Analytics  
-[LinkedIn](https://www.linkedin.com/in/lakshay-malik) <!-- update with your actual URL -->
+[GitHub](https://github.com/Lakshayx007) · [LinkedIn](https://www.linkedin.com/in/lakshay-malik) <!-- update LinkedIn URL if needed -->
 
 ---
 
